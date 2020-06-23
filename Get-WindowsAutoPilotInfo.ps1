@@ -1,10 +1,10 @@
 <#PSScriptInfo
 
-.VERSION 2.3
+.VERSION 2.4
 
 .GUID ebf446a3-3362-4774-83c0-b7299410b63f
 
-.AUTHOR Michael Niehaus
+.AUTHOR Michael Niehaus, Robert Kooistra
 
 .COMPANYNAME Microsoft
 
@@ -35,6 +35,7 @@ Version 1.6:  Bumped version number (no other change).
 Version 2.0:  Added -Online parameter.
 Version 2.1:  Bug fix.
 Version 2.3:  Updated comments.
+Version 2.4:  Fixed the sort order on the output object(s)
 #>
 
 <#
